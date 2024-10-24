@@ -1,0 +1,15 @@
+.footer {
+    background-color: #282c34; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 20px;
+    text-align: center;
+}
+
+.footer a {
+    color: #61dafb; /* Cor dos links */
+    text-decoration: none; /* Remove sublinhado */
+}
+
+.footer a:hover {
+    text-decoration: underline; /* Sublinha no hover */
+}

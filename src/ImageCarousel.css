@@ -1,0 +1,33 @@
+.carousel-container {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    color: white;
+}
+.carousel {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+.image-container {
+    display: flex;
+}
+.carousel-button-prev,
+.carousel-button-next {
+    font-size: 10vw;   
+    color: white;
+    background: none;
+    border: none;
+    cursor: pointer;    
+}
+
+
+/* Define as imagens */
+.carousel img {
+    max-width: 20vw; /* Ajuste conforme necessário */
+    margin: 0 5px; /* Espaçamento entre as imagens */    
+}
+
+
